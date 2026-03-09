@@ -47,4 +47,7 @@ int main()
 
     cout << "--- Selamat Datang Mahasiswa Kelas A 2025 ---" << endl;
 
+     // memanggil prosedur input
+    inputData(berat, tinggi);
+
 }
