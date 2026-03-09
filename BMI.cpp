@@ -52,4 +52,13 @@ int main()
 
     // menghitung BMI
     bmi = hitungBMI(berat, tinggi);
+
+     // menentukan status
+    status = statusBMI(bmi);
+
+    cout << endl;
+    cout << "--- Hasil ---" << endl;
+    cout << "BMI Anda : " << bmi << endl;
+    cout << "Status   : " << status << endl;
+
 }
