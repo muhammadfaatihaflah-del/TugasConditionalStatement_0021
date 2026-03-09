@@ -61,4 +61,5 @@ int main()
     cout << "BMI Anda : " << bmi << endl;
     cout << "Status   : " << status << endl;
 
+    return 0;
 }
