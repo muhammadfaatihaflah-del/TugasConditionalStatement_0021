@@ -39,3 +39,8 @@ string statusBMI(float bmi)
         return "Obesitas";
     }
 }
+
+int main()
+{
+    
+}
