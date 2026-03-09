@@ -10,3 +10,4 @@ void inputData(float &berat, float &tinggi)
     cout << "Masukkan tinggi badan (meter): ";
     cin >> tinggi;
 }
+
