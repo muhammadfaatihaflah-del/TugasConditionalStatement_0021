@@ -18,3 +18,7 @@ float hitungBMI(float berat, float tinggi)
     bmi = berat / (tinggi * tinggi);
     return bmi;
 }
+
+// Fungsi untuk menentukan status BMI
+string statusBMI(float bmi)
+{}
